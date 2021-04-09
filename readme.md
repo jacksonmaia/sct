@@ -4,9 +4,8 @@
 
 ### Padrões
 
-- Sigla padrã....
-- Todos os preços do quarto são armazenado em dolar
-
+- Foi estabelecido uma Sigla padrão para o tratamento e conversão da moeda, o dollar USD
+- Todos os preços do quarto são armazenado em dolar USD
 
 ### Erros
 
